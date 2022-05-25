@@ -1,0 +1,15 @@
+.add-post-content{
+  padding-top: 20px;
+}
+
+.new-post-title{
+  color: rgb(76, 32, 102);
+}
+
+.post-content, .post-title{
+  color: rgb(76, 32, 102);
+}
+
+.post-button{
+  color: rgb(76, 32, 102);
+}
